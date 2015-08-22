@@ -43,5 +43,12 @@ h4 {
      color: #333;
  }
 
-
+#sub-1{
+    float: left;
+    width: 48%;
+}
+#sub-2{
+    float: right;
+    width: 48%;
+}
 
