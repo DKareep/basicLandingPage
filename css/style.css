@@ -64,6 +64,18 @@ h4 {
     margin-right: 10px;
 }
 
+#contact-form{
+    border: 2px solid #2C3E50;
+    border-radius: 10px;
+    padding: 40px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px ;
+
+
+    overflow: auto;
+    background-color: #dddddd;
+}
+
 .content-footer{
     padding-left: 40px;
     border-top: 1px solid #dddddd;
