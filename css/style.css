@@ -1,0 +1,47 @@
+body{
+    font-family: 'lato' , sans-serif;
+    font-size: 15px;
+    line-height: 1.5em;
+}
+
+#container{
+    width: 70%;
+    margin: 10px auto;
+    overflow: auto;
+    background-color: #ffffff;
+}
+p{
+    font-size: 14px;
+    line-height: 1.2em;
+    margin: 4px 0;
+}
+h1{
+    font-size: 22px;
+    line-height: 1.8em;
+margin: 4px 0;
+}
+h4 {
+    margin: 4px 0;
+}
+.clearfix{
+    clear: both;
+}
+
+#logo-container{
+    border-bottom: 2px solid #2C3E50;
+    padding: 14px ;
+}
+ #logo{
+    margin: auto;
+    display: block;
+     height: 120px;
+     width: 120px;
+}
+
+ #main-text{
+     text-align: center;
+     color: #333;
+ }
+
+
+
