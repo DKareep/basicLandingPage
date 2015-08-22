@@ -11,17 +11,17 @@ body{
     background-color: #ffffff;
 }
 p{
-    font-size: 14px;
+    font-size: 18px;
     line-height: 1.5em;
     margin: 4px 0;
 }
 h1{
     font-size: 22px;
-    line-height: 1.8em;
-margin: 4px 0;
+    line-height: 1.2em;
+margin: 0px 0;
 }
-h4 {
-    margin: 4px 0;
+h2 {
+    margin: 0px 0;
 }
 .clearfix{
     clear: both;
@@ -75,6 +75,37 @@ h4 {
     overflow: auto;
     background-color: #dddddd;
 }
+
+#contact-form div {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+#contact-form label{
+    width: 130px;
+    display: inline-block;
+}
+
+#contact-form input[type='text'],#contact-form input[type='email'] , #contact-form input[type='password'] {
+    border: 1px solid #ccc;
+   height: 25px;
+    width: 50%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#contact-form input[type='button']{
+    border-radius: 5px;
+    background-color: #2C3E50;
+/*padding: 15px ;*/
+
+    color: white;
+    float: right;
+    display: block;
+    height: 40px;
+}
+
 
 .content-footer{
     padding-left: 40px;
