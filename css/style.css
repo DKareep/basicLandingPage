@@ -12,7 +12,7 @@ body{
 }
 p{
     font-size: 14px;
-    line-height: 1.2em;
+    line-height: 1.5em;
     margin: 4px 0;
 }
 h1{
@@ -51,4 +51,22 @@ h4 {
     float: right;
     width: 48%;
 }
+.points li{
+    margin-bottom: 30px;
+    list-style-type: none;
 
+
+}
+.points img{
+    float: left;
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+}
+
+.content-footer{
+    padding-left: 40px;
+    border-top: 1px solid #dddddd;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
